@@ -50,3 +50,6 @@ eg: if you can create a GitHub page that triggers the GitHub API without trigger
 
 5. XSS and other website related attacks.
     - OWASP top 10 can be performed etc .
+
+# POC yet to be published using the angular website
+# web attacks VM box yet to be published (CTF)
